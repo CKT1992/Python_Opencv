@@ -1,6 +1,7 @@
 # Python_Opencv
 OpenCV for Python
 
-<div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
+在cmd中執行
+----------
+        python face_detect.py test.jpg haarcascade_frontalface_alt.xml
+
